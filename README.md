@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍🎓 Computer Science Engineering Student<br>🔭 I’m currently working on Software Developing<br>👯 I’m looking to collaborate on the same<br>🤝 I’m looking for help with Machine Learning Projects<br>🌱 I’m currently learning Machine Learning & AI<br>💬 Ask me about  Myself<br>⚡ Fun fact I like Football
+👨🏻‍🎓 Computer Science Engineering Student<br>🔭 I’m currently working on Software Development Projects<br>👯 I’m looking to collaborate on the same<br>🤝 I’m looking for help with Machine Learning Projects<br>🌱 I’m currently learning Machine Learning & AI<br>💬 Ask me about  Myself<br>⚡ Fun fact I like Football
 
 
 ## 🌐 Socials:
